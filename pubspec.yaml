@@ -1,0 +1,131 @@
+name: flutter_app
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  google_fonts: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_svg: ^2.0.10+1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/images/rectangle_1.png
+  - assets/vectors/sf_symbol_microphone_x2.svg
+  - assets/vectors/username_2_x2.svg
+  - assets/vectors/icon_magnifyingglass_1_x2.svg
+  - assets/vectors/username_x2.svg
+  - assets/vectors/vector_x2.svg
+  - assets/vectors/username_1_x2.svg
+  - assets/vectors/nav_bar_4_x2.svg
+  - assets/images/ncert_logo.jpeg
+  - assets/images/contact_photo.png
+  - assets/images/wikipedia_logo_v_23.png
+  - assets/images/ncert_logo_1.png
+  - assets/images/youtube_logo_png_2069.png
+  - assets/vectors/icon_magnifyingglass_5_x2.svg
+  - assets/vectors/vector_48_x2.svg
+  - assets/vectors/vector_45_x2.svg
+  - assets/vectors/nav_bar_x2.svg
+  - assets/vectors/vector_26_x2.svg
+  - assets/vectors/vector_42_x2.svg
+  - assets/vectors/vector_22_x2.svg
+  - assets/vectors/vector_17_x2.svg
+  - assets/images/go_stash_1.png
+  - assets/images/google.png
+  - assets/images/facebook.png
+  - assets/images/go_stash_1.png
+  - assets/vectors/card_3_x2.svg
+  - assets/vectors/card_8_x2.svg
+  - assets/vectors/card_6_x2.svg
+  - assets/vectors/card_7_x2.svg
+  - assets/images/contact_photo.png
+  - assets/images/iitb_logo_iit_bombay_logos_2.png
+  - assets/images/rectangle_28.jpeg
+  - assets/images/rectangle_32.jpeg
+  - assets/images/rectangle_30.jpeg
+  - assets/images/rectangle_27.jpeg
+  - assets/images/ncert_logo.jpeg
+  - assets/images/rectangle_26.jpeg
+  - assets/vectors/vector_20_x2.svg
+  - assets/vectors/icon_magnifyingglass_x2.svg
+  - assets/vectors/nav_bar_2_x2.svg
+  - assets/images/physics_wallah_logo.png
+  - assets/images/iitb_logo_iit_bombay_logos_2.png
+  - assets/images/wikipedia_logo_v_23.png
+  - assets/images/amzn_e_9_f_942_e_43.png
+  - assets/images/ncert_logo_1.png
+  - assets/images/youtube_logo_png_2069.png
+  - assets/vectors/vector_44_x2.svg
+  - assets/vectors/vector_36_x2.svg
+  - assets/vectors/vector_41_x2.svg
+  - assets/vectors/vector_4_x2.svg
+  - assets/vectors/vector_33_x2.svg
+  - assets/vectors/vector_46_x2.svg
+  - assets/vectors/vector_31_x2.svg
+  - assets/vectors/vector_16_x2.svg
+  - assets/vectors/vector_12_x2.svg
+  - assets/vectors/group_1442_x2.svg
+  - assets/vectors/vector_15_x2.svg
+  - assets/vectors/nav_bar_3_x2.svg
+  - assets/vectors/vector_39_x2.svg
+  - assets/vectors/vector_29_x2.svg
+  - assets/images/physics_wallah_logo.png
+  - assets/images/ncert_logo.jpeg
+  - assets/images/contact_photo.png
+  - assets/images/youtube_logo_png_2069.png
+  - assets/images/ncert_logo_1.png
+  - assets/images/amzn_e_9_f_942_e_43.png
+  - assets/images/wikipedia_logo_v_23.png
+  - assets/vectors/vector_21_x2.svg
+  - assets/vectors/vector_34_x2.svg
+  - assets/vectors/container_1_x2.svg
+  - assets/vectors/icon_magnifyingglass_6_x2.svg
+  - assets/vectors/vector_5_x2.svg
+  - assets/vectors/vector_10_x2.svg
+  - assets/vectors/vector_47_x2.svg
+  - assets/vectors/vector_9_x2.svg
+  - assets/vectors/vector_35_x2.svg
+  - assets/vectors/vector_7_x2.svg
+  - assets/vectors/vector_13_x2.svg
+  - assets/vectors/container_x2.svg
+  - assets/vectors/icon_magnifyingglass_2_x2.svg
+  - assets/vectors/vector_1_x2.svg
+  - assets/vectors/container_3_x2.svg
+  - assets/vectors/vector_6_x2.svg
+  - assets/vectors/vector_49_x2.svg
+  - assets/images/contact_photo.png
+  - assets/vectors/icon_3_x2.svg
+  - assets/vectors/union_3_x2.svg
+  - assets/vectors/icon_magnifyingglass_3_x2.svg
+  - assets/vectors/union_5_x2.svg
+  - assets/vectors/vector_30_x2.svg
+  - assets/vectors/on_2_x2.svg
+  - assets/vectors/vector_38_x2.svg
+  - assets/images/rectangle_1.png
+  - assets/images/contact_photo.png
+  - assets/vectors/card_5_x2.svg
+  - assets/vectors/card_2_x2.svg
+  - assets/vectors/video_library_x2.svg
+  - assets/vectors/vector_25_x2.svg
+  - assets/vectors/card_1_x2.svg
+  - assets/vectors/card_x2.svg
+  - assets/vectors/vector_27_x2.svg
+  - assets/vectors/vector_43_x2.svg
+  - assets/vectors/nav_bar_1_x2.svg
+  - assets/vectors/card_4_x2.svg
+  - assets/vectors/vector_14_x2.svg
+  - assets/vectors/vector_24_x2.svg
+

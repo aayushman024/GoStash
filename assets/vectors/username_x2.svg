@@ -1,0 +1,30 @@
+<svg width="594" height="138" viewBox="0 0 594 138" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask_0_6_1390" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="297" height="69">
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)" fill="url(#pf_0_6_1390)"/>
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)" fill="url(#pattern_1_6_1390)"/>
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)"/>
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)"/>
+</mask>
+<g mask="url(#mask_0_6_1390)">
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)" fill="url(#pf_0_6_1391)"/>
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)" fill="url(#pattern_1_6_1391)" style="mix-blend-mode:overlay"/>
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)" stroke="url(#ps_0_6_1391)" stroke-width="0.304" stroke-miterlimit="3.999327"/>
+<rect  x="0.304" y="0.304" width="593.392" height="137.392" rx="15.696" transform="rotate(0 0.304 0.304)" stroke="url(#ps_1_6_1391)" stroke-width="0.304" stroke-miterlimit="3.999327"/>
+</g>
+<rect  x="30" y="22" width="2" height="44" fill="#939393"/>
+<defs>
+<radialGradient id="pf_0_6_1391" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(267.76466 61.740784 -152.284827 98.676081 45.651 14.67)">
+<stop stop-color="#FFFFFF" stop-opacity="0.2"/>
+<stop offset="0.771" stop-color="#FFFFFF" stop-opacity="0.2"/>
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0.2"/>
+</radialGradient>
+<radialGradient id="ps_0_6_1391" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(238.722933 50.290681 -216.468585 153.523789 -40.7 -8.38)">
+<stop stop-color="#FFFFFF"/>
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="ps_1_6_1391" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-224.008465 -55.678956 239.661592 -144.060847 321.741 77.833)">
+<stop stop-color="#FFFFFF"/>
+<stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>
